@@ -1,0 +1,10 @@
+C:\Users\alexx\OneDrive\Desktop\CM390\CM390C#\final_project\TerisApp\TerisApp\bin\Debug\TerisApp.exe.config
+C:\Users\alexx\OneDrive\Desktop\CM390\CM390C#\final_project\TerisApp\TerisApp\bin\Debug\TerisApp.exe
+C:\Users\alexx\OneDrive\Desktop\CM390\CM390C#\final_project\TerisApp\TerisApp\bin\Debug\TerisApp.pdb
+C:\Users\alexx\OneDrive\Desktop\CM390\CM390C#\final_project\TerisApp\TerisApp\obj\Debug\TerisApp.csprojAssemblyReference.cache
+C:\Users\alexx\OneDrive\Desktop\CM390\CM390C#\final_project\TerisApp\TerisApp\obj\Debug\TerisApp.TerisForm.resources
+C:\Users\alexx\OneDrive\Desktop\CM390\CM390C#\final_project\TerisApp\TerisApp\obj\Debug\TerisApp.Properties.Resources.resources
+C:\Users\alexx\OneDrive\Desktop\CM390\CM390C#\final_project\TerisApp\TerisApp\obj\Debug\TerisApp.csproj.GenerateResource.cache
+C:\Users\alexx\OneDrive\Desktop\CM390\CM390C#\final_project\TerisApp\TerisApp\obj\Debug\TerisApp.csproj.CoreCompileInputs.cache
+C:\Users\alexx\OneDrive\Desktop\CM390\CM390C#\final_project\TerisApp\TerisApp\obj\Debug\TerisApp.exe
+C:\Users\alexx\OneDrive\Desktop\CM390\CM390C#\final_project\TerisApp\TerisApp\obj\Debug\TerisApp.pdb
